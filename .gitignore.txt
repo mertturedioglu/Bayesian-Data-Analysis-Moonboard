@@ -1,0 +1,2 @@
+dataset/scraper/scraped_html_files/*
+dataset/scraper/scraped_html_files/page7.html
